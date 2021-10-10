@@ -1,0 +1,76 @@
+		body{		
+			margin: 0px;	
+			background-image: url(hosbg.jpg);
+			background-repeat: no-repeat;
+			
+		}
+		.topnav {
+			overflow: hidden;
+		  	background-color: black;
+		}
+
+		.topnav a {
+			float: left;
+			color: #f2f2f2;
+			text-align: center;
+			padding: 20px 22px;
+			text-decoration: none;
+			font-size: 20px;
+			font-weight: 999;
+		}
+
+			.topnav a:hover {
+			  background-color: #ddd;
+			  color: black;
+			}
+
+			.topnav a.active {
+				background-color: seagreen;
+			  color: white;
+			}
+	    fieldset{
+	    	font-size: 25px;
+	    	font-weight: 999;
+	  		 	box-sizing: content-box;  
+			  width: 300px;
+			  height: 300px;
+			  padding: 50px;  
+			  border-radius: 50px;
+			  text-align: center;
+			  border: 10px solid seagreen;
+	    }
+	    input{
+	    	border-width: 5px;
+
+	    }
+	    .left{
+	    	margin-top: 50px;
+	    	margin-left: 50px;
+	    	 position: absolute;
+  			left: 0px;
+	    }
+	    .button {
+			  background-color: seagreen;
+			 border-radius: 30px;
+			  color: white;
+			  padding: 15px 32px;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  font-size: 26px;
+			  margin: 4px 2px;
+			  cursor: pointer;
+		}
+		.H{
+				margin-top: 100px;
+				font-size: 70px;
+			}
+			p{
+				color: seagreen;
+			}
+			h2{
+				margin-top: 0px;
+			}
+
+	  
+	    	
